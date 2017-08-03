@@ -4,8 +4,10 @@ body{
   color: #747143;
 }
 body img {
-  height: 20vw
+  width: 100%;
+  /*height: 100%;*/
   display: inline-block;
+
 }
 .packagename {
   text-align: center;
@@ -15,4 +17,7 @@ body img {
 }
 .hover{
   color: #747143;
+}
+.class col-md-3{
+  size: 100px;
 }
