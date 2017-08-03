@@ -1,0 +1,9 @@
+body {
+  background: url("../images/scuba.jpg") no-repeat center center fixed;
+  background-size: 100vw;
+  background-attachment: fixed;
+  background-color: #59a8e5;
+}
+/*img {
+  width: 100%;
+}*/
